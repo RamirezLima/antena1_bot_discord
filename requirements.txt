@@ -1,0 +1,9 @@
+# Bot
+discord.py==2.7.1
+aiohttp>=3.10,<4
+Flask==3.1.0
+python-dotenv==1.0.1
+
+# Exigidas pelo discord.py para áudio em canais de voz
+PyNaCl==1.6.2
+davey==0.1.6
